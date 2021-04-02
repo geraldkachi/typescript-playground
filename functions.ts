@@ -28,3 +28,16 @@ console.log(getName('kachi',''));
 function myVoid() {
     return
 }
+
+
+// git branch 
+//  * main
+//  git branch littlefeature
+
+// git branch
+// littlefeature
+// *main
+
+//  to go to the littlefeature branch to this =>
+// git chechout littlefeature
+// Switch to branch littlefeature

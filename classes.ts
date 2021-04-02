@@ -38,3 +38,15 @@
 
 
 //   we cnnot have mutiple constructor in js and ts  so we add a question mark ?
+
+// git branch 
+//  * main
+//  git branch littlefeature
+
+// git branch
+// littlefeature
+// *main
+
+//  to go to the littlefeature branch to this =>
+// git chechout littlefeature
+// Switch to branch littlefeature

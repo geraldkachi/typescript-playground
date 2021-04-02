@@ -18,3 +18,16 @@ function showTodo(todo: Todo) {
 }
 let myTodo = {title: 'i love ikoojo', text: 'that is all'}
 showTodo(myTodo)
+
+
+// git branch 
+//  * main
+//  git branch littlefeature
+
+// git branch
+// littlefeature
+// *main
+
+//  to go to the littlefeature branch to this =>
+// git chechout littlefeature
+// Switch to branch littlefeature
