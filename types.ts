@@ -18,7 +18,7 @@ let booArr: Array<boolean>
 //  void undefined and null
 
 let strNumTuple: [string , number] 
-let myVoid: void = null 
+let myVoid: void = unde 
 let myVoidOne: void = undefined 
 
 myString = "hello kachi"
